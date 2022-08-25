@@ -1,5 +1,9 @@
-n = 10
-factorial = 1
-for i in range(1,n+1):
-    factorial = factorial * i
-print (factorial)
+def factorial(n):
+    """
+    Recursive Function to calculate the factorial of a number
+    :param n: integer
+    :return: factorial
+    """
+    if n <= 1:
+        return 1
+    return n * factorial(n - 1)
