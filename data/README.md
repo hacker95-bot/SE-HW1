@@ -1,1 +1,1 @@
-The 10_fact_data.txt file represents the factorial values of integers upto 10. 
+The data.txt file represents the factorial values of 10. 
