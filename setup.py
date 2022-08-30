@@ -3,7 +3,7 @@ import versioneer
 setup(
     name='se-hw1',
     version=versioneer.get_version(),
-    packages=['code', 'test'],
+    packages=['code', 'test', 'data'],
     url='https://github.com/hacker95-bot/SE-HW1',
     license='MIT License',
     author='Vinay Kumar Reddy Perolla',
