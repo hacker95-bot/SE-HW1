@@ -1,2 +1,4 @@
 six==1.16.0
-pytest
+pytest~=7.1.2
+versioneer~=0.23
+setuptools==65.3.0
