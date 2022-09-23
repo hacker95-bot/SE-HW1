@@ -1,7 +1,7 @@
 # NCSU CSC-510 Software Engineering Project 1 GROUP-0 #
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-![License](https://github.com/hacker95-bot/SE-HW1/actions/workflows/python-app.yml/badge.svg)
+[![Build](https://github.com/hacker95-bot/SE-HW1/actions/workflows/python-app.yml/badge.svg)](https://github.com/hacker95-bot/SE-HW1/actions)
 [![DOI](https://zenodo.org/badge/528689445.svg)](https://zenodo.org/badge/latestdoi/528689445)
 [![GitHub Release](https://img.shields.io/github/release/hacker95-bot/SE-HW1)](https://github.com/hacker95-bot/SE-HW1/releases/)
 ![Python](https://img.shields.io/badge/python-v3.8+-yellow.svg)
